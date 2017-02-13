@@ -1,0 +1,23 @@
+---
+componentName:  archman
+
+strings:
+    productName:         Archman OS
+    shortProductName:    Archman
+    version:             17.2
+    shortVersion:        17.2
+    versionedName:       Archman 17.2 "Leptailurus Serval"
+    shortVersionedName:  Archman 17.2
+    bootloaderEntryName: Archman
+
+images:
+    productLogo:         "squid.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
