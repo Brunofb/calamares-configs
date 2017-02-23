@@ -43,7 +43,7 @@ Presentation
             anchors.horizontalCenter: background1.horizontalCenter
             anchors.top: background1.bottom
             text: "Archman GNU/Linux'a Hoşgeldiniz<br/>"+
-                  "Archman OS, Arch Linux tabanlıdır ve kolay kurulur.<br/>"+
+                  "Archman GNU/Linux, Arch tabanlıdır ve kolay kurulur.<br/>"+
                   "Kurulum sırasında size hızlı bir tanıtım sunacağız."
             wrapMode: Text.WordWrap
             width: 600
@@ -63,7 +63,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background2.horizontalCenter
             anchors.top: background2.bottom
-            text: "Archman tamamen özelleştirilebilir<br/>"+
+            text: "Archman GNU/Linux tamamen özelleştirilebilir<br/>"+
                   "ve senin istediğin biçimi alır. Temalar başta olmak üzere<br/>"+
                   "linux çekirdeği de dahil herşeyi Arch Linux gücü ile değiştirebilirsiniz."
             wrapMode: Text.WordWrap
@@ -84,9 +84,9 @@ Presentation
         Text {
             anchors.horizontalCenter: background3.horizontalCenter
             anchors.top: background3.bottom
-            text: "Archman OS üzerinde işlerinizi kolaylaştıran harika bir paket yükleyici vardır.<br/>"+
+            text: "Archman GNU/Linux üzerinde işlerinizi kolaylaştıran harika bir paket yükleyici vardır.<br/>"+
                   "İnternet, Çoklu Ortam ve Ofis gibi birçok kategoride kolayca uygulama yükleyebilirsiniz.<br/>"+
-                  "Archman OS tamamen senin istediğin gibi bir işletim sistemi!"
+                  "Archman GNU/Linux tamamen senin istediğin gibi bir işletim sistemi!"
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center
@@ -105,7 +105,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background4.horizontalCenter
             anchors.top: background4.bottom
-            text: "Archman OS üzerinde paket yüklemenin iki yolu vardır.<br/>"+
+            text: "Archman GNU/Linux üzerinde paket yüklemenin iki yolu vardır.<br/>"+
                   "Birisi uçbirim üzerinde doğrudan çalışan Pacman kullanmak.<br/>"+
                   "Diğeri ise arka planda pacman kullanan grafik arayüz: Pamac."
             wrapMode: Text.WordWrap
@@ -126,8 +126,8 @@ Presentation
         Text {
             anchors.horizontalCenter: background5.horizontalCenter
             anchors.top: background5.bottom
-            text: "Archman OS tercih ettiğiniz için teşekkürler, umarım eğlenirsiniz.<br/>"+
-                  "Archman OS hakkında sorular sorabilir veya geribildirim yapabilirsiniz.<br/>"+
+            text: "Archman GNU/Linux tercih ettiğiniz için teşekkürler, umarım eğlenirsiniz.<br/>"+
+                  "Archman GNU/Linux hakkında sorular sorabilir veya geribildirim yapabilirsiniz.<br/>"+
                   "Lütfen http://archman.org adresimizi ziyaret etmekten ve yazmaktan çekinmeyiniz."
             wrapMode: Text.WordWrap
             width: 600

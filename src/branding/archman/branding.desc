@@ -2,7 +2,7 @@
 componentName:  archman
 
 strings:
-    productName:         Archman OS
+    productName:         Archman GNU/Linux
     shortProductName:    Archman
     version:             17.2
     shortVersion:        17.2

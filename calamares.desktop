@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Install Archman OS (Calamares)
+Name=Install Archman GNU/Linux (Calamares)
 GenericName=Live Installer (Calamares)
 Comment=Install the operating system to disk
 Exec=/usr/bin/calamares_polkit %f
