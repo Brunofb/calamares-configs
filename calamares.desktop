@@ -1,12 +1,13 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Install Archman GNU/Linux (Calamares)
-GenericName=Live Installer (Calamares)
-Comment=Install the operating system to disk
-Exec=/usr/bin/calamares_polkit %f
-Icon=/usr/share/icons/calamares.png
+Name=Calamares
+GenericName=System Installer
+Keywords=calamares;system;installer
+TryExec=calamares
+Exec=pkexec /usr/bin/calamares
+Comment=Calamares — System Installer
+Icon=calamares
 Terminal=false
 StartupNotify=true
-Type=Application
 Categories=Qt;System;
