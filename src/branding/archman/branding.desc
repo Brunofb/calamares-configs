@@ -4,10 +4,10 @@ componentName:  archman
 strings:
     productName:         Archman GNU/Linux
     shortProductName:    Archman
-    version:             17.2
-    shortVersion:        17.2
-    versionedName:       Archman 17.2 "Leptailurus Serval"
-    shortVersionedName:  Archman 17.2
+    version:             17.3
+    shortVersion:        17.3
+    versionedName:       Archman 17.3 "Leptailurus Serval"
+    shortVersionedName:  Archman 17.3
     bootloaderEntryName: Archman
 
 images:
