@@ -6,6 +6,7 @@
 #   Copyright 2014, Pier Luigi Fiorini <pierluigi.fiorini@gmail.com>
 #   Copyright 2015-2017, Teo Mrnjavac <teo@kde.org>
 #   Copyright 2016-2017, Kyle Robbertze <kyle@aims.ac.za>
+#   Maintainer 2017, Demiray Muhterem <tulliana@archman.org>
 #
 #   Calamares is free software: you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by
