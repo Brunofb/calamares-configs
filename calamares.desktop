@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Calamares
+Name=Calamares — Archman Installer
 GenericName=Archman GNU/Linux Installer
 Keywords=calamares;system;installer
 TryExec=calamares
