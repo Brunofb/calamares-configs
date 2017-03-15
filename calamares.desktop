@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Calamares — Archman Installer
+Name=Calamares - Archman Installer
 GenericName=Archman GNU/Linux Installer
 Keywords=calamares;system;installer
 TryExec=calamares
 Exec=/usr/bin/calamares_polkit %f
-Comment=Calamares — Archman GNU/Linux Installer
+Comment=Calamares - Archman GNU/Linux Installer
 Icon=/usr/share/icons/calamares.png
 Terminal=false
 StartupNotify=true
