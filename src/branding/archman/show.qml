@@ -35,10 +35,11 @@ Presentation
         Image {
             id: background1
             source: "slide.png"
-            width: 500; height: 275
+            width: 700; height: 375
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
+ /*
         Text {
             anchors.horizontalCenter: background1.horizontalCenter
             anchors.top: background1.bottom
@@ -49,6 +50,7 @@ Presentation
             width: 600
             horizontalAlignment: Text.Center
         }
+ */
     }
 
     Slide {
@@ -56,10 +58,11 @@ Presentation
         Image {
             id: background2
             source: "slide2.png"
-            width: 500; height: 275
+            width: 700; height: 375
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
+/*
         Text {
             anchors.horizontalCenter: background2.horizontalCenter
             anchors.top: background2.bottom
@@ -70,6 +73,7 @@ Presentation
             width: 600
             horizontalAlignment: Text.Center
         }
+*/
     }
 
     Slide {
@@ -77,10 +81,11 @@ Presentation
         Image {
             id: background3
             source: "slide3.png"
-            width: 500; height: 275
+            width: 700; height: 375
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
+/*
         Text {
             anchors.horizontalCenter: background3.horizontalCenter
             anchors.top: background3.bottom
@@ -91,6 +96,7 @@ Presentation
             width: 600
             horizontalAlignment: Text.Center
         }
+*/
     }
 
     Slide {
@@ -98,10 +104,11 @@ Presentation
         Image {
             id: background4
             source: "slide4.png"
-            width: 500; height: 275
+            width: 700; height: 375
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
+/*
         Text {
             anchors.horizontalCenter: background4.horizontalCenter
             anchors.top: background4.bottom
@@ -112,6 +119,7 @@ Presentation
             width: 600
             horizontalAlignment: Text.Center
         }
+*/
     }
 
     Slide {
@@ -119,10 +127,11 @@ Presentation
         Image {
             id: background5
             source: "slide5.png"
-            width: 500; height: 275
+            width: 700; height: 375
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
+/*
         Text {
             anchors.horizontalCenter: background5.horizontalCenter
             anchors.top: background5.bottom
@@ -133,5 +142,6 @@ Presentation
             width: 600
             horizontalAlignment: Text.Center
         }
+*/
     }
 }
